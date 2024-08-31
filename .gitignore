@@ -36,3 +36,6 @@ lib/*
 
 # for java
 *.class
+
+
+./OtherGameServers/*
